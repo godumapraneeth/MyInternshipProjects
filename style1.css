@@ -1,0 +1,17 @@
+*{
+    background-color: bisque;
+}
+.container{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.container table{
+    align-items: center;
+    flex: 1;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
